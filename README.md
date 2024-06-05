@@ -18,7 +18,7 @@
 
 
 
-<div style="display: flex" >
+<div style="disply: flex" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iynguuuuu&show_icons=true&locale=en&layout=compact" alt="iynguuuuu" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iynguuuuu&" alt="iynguuuuu" />
 </div>
