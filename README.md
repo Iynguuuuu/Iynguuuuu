@@ -18,4 +18,4 @@
 
 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iynguuuuu&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="iynguuuuu" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iynguuuuu&bg_color=000000" alt="iynguuuuu" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iynguuuuu&background=000000" alt="iynguuuuu" /></p>
